@@ -1,0 +1,1 @@
+include ':app', ':lib_1', ':lib_2', ':lib_3', ':main_lib'
